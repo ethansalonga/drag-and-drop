@@ -10,7 +10,9 @@
 
 ## About The Project
 
-[![product-screenshot]]
+<p align="center">
+  <img src=src/assets/screenshot.png width=50% height=50%></img>
+</p>
 
 This is a simple client-side tool for managing your projects, whether they be work or personal. Simply enter the details of your project to add a new one, and drag and drop between sections update your project lists. This tool was built using object-oriented programming (OOP) and various TypeScript features.
 
